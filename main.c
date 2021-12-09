@@ -1,6 +1,6 @@
 int main(){
-        int ekip = 0;
-        while(ekip <=10){
+        int ekip =1;
+        while(ekip <=11){
                 printf("%d\n",ekip);
                 ekip = ekip + 1;
                 }
